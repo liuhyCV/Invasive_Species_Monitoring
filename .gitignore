@@ -1,0 +1,16 @@
+
+
+*.npy
+
+data/
+
+demo.py
+demo_test.py
+
+*.jpg
+
+test1.py
+
+*.csv
+
+model/result/
